@@ -118,7 +118,6 @@ dmypy.json
 
 # profiling data
 .prof
-*.db
 
 venv
 .idea
